@@ -5,6 +5,7 @@ dnspython
 ffmpeg-python
 gitpython
 hachoir
+nodejs
 heroku3
 lyricsgenius
 motor==3.0.0
